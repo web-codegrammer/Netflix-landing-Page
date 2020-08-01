@@ -14,6 +14,6 @@ Setup:
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Bootstrap-4-Website-landing-Page/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/Netflix-landing-Page/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
