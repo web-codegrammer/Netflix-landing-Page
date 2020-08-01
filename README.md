@@ -17,3 +17,4 @@ Setup:
 [MIT](https://github.com/web-codegrammer/Netflix-landing-Page/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
+ 
