@@ -1,7 +1,7 @@
 # Netflix-landing-Page
 ![Landing Page](https://i.ibb.co/wQQyBTV/lp-2.png)
 
-### [Live Site](https://web-codegrammer-netflix-landing-page.netlify.app)
+### [Live Site](https://codegrammer-netflix-landing-page-real.netlify.app)
 
 ## Introduction
 
